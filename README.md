@@ -1,8 +1,9 @@
 <h3> ❄️ Hello World!!👋, I am Deepak Kumar Jha</h3>
 <!-- <h4><a href="">Personal Website</a></h4> -->
 
+* Currently working as a Data Scientist at Bajaj Finserv Limited.
 
-* Im a fourth-year student at Vellore Institute Of Technology pursuing in Information Technology.
+* I'm a an Engineering Graduate from Vellore Institute Of Technology pursuing in Information Technology.
 
 * I am a machine learning and automation enthusiast.
 
