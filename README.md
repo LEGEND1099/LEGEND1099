@@ -44,7 +44,7 @@
 <tr>
 <td align="center" width="20%">
 <div><b><center>Azure</center></b></div> 
-<img height=69px src="https://ktconnections.com/images/easyblog_articles/658/b2ap3_large_microsoft-azure-500x500.png"> 
+<img height=69px src="https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg"> 
 </td>
 <td align="center" width="20%">
 <div><b><center>Git</center></b></div> 
