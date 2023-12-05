@@ -9,7 +9,7 @@
 
 * I have experience in the field of Frontend Development, Competitive Coding, Machine Learning, Deep Learning and Computer Vision.💻
 
-* Visit my [Portfilio Website](https://www.deepakk.tech](https://legend1099.github.io/).
+* Visit my [Portfilio Website](https://legend1099.github.io/).
 
 * Connect with me on LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/deepak-kumar-jha-1099/).
 
